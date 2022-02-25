@@ -1,9 +1,4 @@
 
-# ricardo.coelho@akapeople.pt
-# ruck@chu5WRET3pu
-
-
-
 require('newrelic');
 
 const express = require('express')
